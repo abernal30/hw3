@@ -1,0 +1,121 @@
+
+/** HEADER **/
+ .navbar {
+  background-color: #808080;
+ }
+
+ .nav {
+  position: relative;
+  margin-bottom: 0%;
+  margin-top: 0%;
+  text-align: center;
+  font-family: 'Lora', serif;
+  font-size: 1.2em;
+  
+}
+
+/** menu chicke, beff, etc **/
+.navbar-nav {
+   
+  background-color:  #fcf3cf;
+}
+
+
+/** Food, llc **/
+.navbar-brand  h1{
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 1.5em;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  color: #000000;
+
+} 
+
+
+
+/*div.navbar-header {
+background-color: #808080;
+background-color: #808080;
+position: relative;
+  font-family: Helvetica;
+  font-size: 150%;
+  font-weight: bold;
+  background-color: #808080;
+  padding:15px;
+  margin-bottom: 0%;
+   color: #000000;
+}*/
+
+
+nav > div > ul > li > p {
+  position: relative;
+  background-color: #f7f9f9;
+  margin-bottom: 0%;
+  border: 1px solid #3F0C1F;
+}
+
+
+li {
+
+border: 1px solid #3F0C1F;
+}
+
+
+div h2 {
+position: relative;
+margin-top: 5%;
+margin-bottom: 5%;
+}
+
+div > h3, #p1  {
+position: relative;
+margin-right: 5%;
+margin-left: 5%;
+text-align: center;
+background-color: #808080;
+padding:15px;
+text-align: justify; 
+ }
+
+div > h3 {
+   position: relative;
+   margin-bottom: 0%;
+   padding:15px;
+   text-align: center;
+}
+
+/*h3 {    
+  
+  font-family: 'Lora', serif;
+  font-size: 150%;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+  background-color: #808080;
+  margin-bottom: 0%;
+  margin-top: 10%;
+  }
+*/
+/*#p2 {    
+  position: relative;
+  font-family: Helvetica;
+  font-size: 150%;
+  font-weight: bold;
+  background-color: #808080;
+  padding:15px;
+  margin-bottom: 0%;
+   color: #000000;
+  }
+
+#p1 {
+  position: relative;
+  background-color: #808080;
+  margin-top: 0%;
+  padding:15px 15px;
+  text-align: justify; 
+  color: #000000;
+  font-family: 'Lora', serif;
+  margin-bottom: 5%
+} */
